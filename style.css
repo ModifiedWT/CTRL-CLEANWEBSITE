@@ -6,7 +6,6 @@ body {
     font-family: 'Times New Roman', serif;
     line-height: 1.5;
     min-height: 100vh;
-    background: #00aeff;
     flex-direction: column;
     margin: 0;
     background-image: url('bgimage.jpg');
@@ -26,10 +25,10 @@ body {
 }
 
 h1 {
-    color: #00aeff;
+    color: #ffffff;
 }
 h2 {
-    color:  #00aeff;
+    color:  #ffffff;
 }
 .fade-in {
   opacity: 0;
@@ -87,7 +86,7 @@ label {
     margin-top: 10px;
     margin-bottom: 5px;
     text-align: left;
-    color: #00f2ff;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -118,4 +117,12 @@ button {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.notregister {
+    color: white;
+}
+
+.usercolor {
+  color: white;
 }
